@@ -14,11 +14,11 @@ Bubble sort is the simplest sorting algorithm. It works by repeatedly swapping t
 
 
 
-#Binary Search
-#Selection Sort
-#Insertion Sort
-#Recursive Algorithms
-#Merge Sort
-#Graphical Representation
+# Binary Search
+# Selection Sort
+# Insertion Sort
+# Recursive Algorithms
+# Merge Sort
+# Graphical Representation
 # Asymptotic Analysis: Measuring An Algorithm's Efficenty
 # the Big O notation
