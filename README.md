@@ -8,6 +8,8 @@ This repo contains code for some of the more basic and simple algorithms.
 # Bubble Sort 
 
 Bubble sort is the simplest sorting algorithm. It works by repeatedly swapping the adjacent elements if they are in wrong order.
+
+
 ![](images/bubble.png)
 
 
