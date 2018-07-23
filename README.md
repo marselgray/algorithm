@@ -13,4 +13,12 @@ Bubble sort is the simplest sorting algorithm. It works by repeatedly swapping t
 ![](images/bubble.png)
 
 
-# Measuring An Algorithm's Efficenty
+
+#Binary Search
+#Selection Sort
+#Insertion Sort
+#Recursive Algorithms
+#Merge Sort
+#Graphical Representation
+# Asymptotic Analysis: Measuring An Algorithm's Efficenty
+# the Big O notation

@@ -20,6 +20,9 @@ array = [90, 15, 25, 4, 22, -3, 90]
 
 bubbleSort(array)
 
-print ("The sorted array is:")
+print ("This array is sorted using bubble sort:")
 for i in range(len(array)):
 	print ("%d" %array[i]), 
+
+
+
