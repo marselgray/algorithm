@@ -20,7 +20,12 @@ Selection sorts arranges an array by repeatedly finding the minimum element from
 
 # Binary Search
 
+Binary search splits an array repeadedly in half. The algorithm will then repeatedly check until the value is found or the interval is empty.
 
+The key with binary searches is that it MUST be a sorted array to function correctly. 
+
+
+![](images/binary-search.png)
 
 # Insertion Sort
 # Recursive Algorithms
