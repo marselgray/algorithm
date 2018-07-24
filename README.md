@@ -12,10 +12,16 @@ Bubble sort is the simplest sorting algorithm. It works by repeatedly swapping t
 
 ![](images/bubble.png)
 
+# Selection Sort
 
+Selection sorts arranges an array by repeatedly finding the minimum element from unsorted part and moving it to the index 0 position. It is considered a slow sorting algorithm because of its use of nested loops
+
+![](images/selection.png)
 
 # Binary Search
-# Selection Sort
+
+
+
 # Insertion Sort
 # Recursive Algorithms
 # Merge Sort
